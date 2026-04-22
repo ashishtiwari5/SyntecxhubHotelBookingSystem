@@ -1,25 +1,18 @@
-# Syntecxhub_StudentManagementSystem
+# SyntecxhubHotelBookingSystem 
 
-A CLI-based Student Management System built in Java.
+A CLI-based Hotel Booking Management System built in Java.
 
-## Features
-- Add student records
-- View all students
-- Update student details
-- Delete student records
-- Search student by ID
-- Input validation and menu-driven system
+## Features 
+- View available rooms
+- Book rooms
+- Cancel bookings
+- View all bookings
 
-## Tech Used
+## Tech Used 
 - Java
 - OOP Concepts
 - ArrayList
 
-## How to Run
-1. Compile: javac Main.java  
+## How to Run 
+1. Compile: javac Main.java 
 2. Run: java Main
-
-## Sample Output
-ID | Name | Age | Course
-----------------------------
-1 | Aashish | 22 | MCA
