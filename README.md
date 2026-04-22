@@ -14,4 +14,4 @@ A CLI-based Hotel Booking Management System built in Java.
 
 ## How to Run
 1. Compile: javac Main.java
-2. Run: java Main
+2. Run: .java File 
